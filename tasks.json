@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T18:01:03.475Z",
+  "updatedAt": "2026-07-18T18:01:11.432Z",
   "tasks": [
     {
       "id": "t2",
@@ -151,17 +151,17 @@
       "done": false
     },
     {
-      "id": "tmrq9le4i5ekj",
-      "title": "Track app maken",
-      "day": "2026-07-18",
-      "cat": "admin",
-      "done": true
-    },
-    {
       "id": "t3",
       "title": "Fatbike band fixen",
       "day": "2026-07-18",
       "cat": "project",
+      "done": true
+    },
+    {
+      "id": "tmrq9le4i5ekj",
+      "title": "Track app maken",
+      "day": "2026-07-18",
+      "cat": "admin",
       "done": true
     },
     {

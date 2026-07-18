@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T17:59:43.500Z",
+  "updatedAt": "2026-07-18T17:59:52.531Z",
   "tasks": [
     {
       "id": "t2",
@@ -35,7 +35,7 @@
       "id": "tmrq5ug4uy7jl",
       "title": "Vloei halen",
       "day": "2026-07-19",
-      "cat": "huis",
+      "cat": "admin",
       "done": false
     },
     {

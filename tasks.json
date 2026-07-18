@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T13:28:14.807Z",
+  "updatedAt": "2026-07-18T13:31:53.069Z",
   "tasks": [
     {
       "id": "t1",
@@ -81,17 +81,17 @@
       "done": false
     },
     {
-      "id": "t7",
-      "title": "Hal schilderen en opruimen",
-      "day": "2026-07-20",
-      "cat": "project",
-      "done": false
-    },
-    {
       "id": "tmrq5cfnp4u39",
       "title": "Zakken halen bij Saver",
       "day": "2026-07-20",
       "cat": "admin",
+      "done": false
+    },
+    {
+      "id": "t7",
+      "title": "Hal schilderen en opruimen",
+      "day": "2026-07-20",
+      "cat": "project",
       "done": false
     },
     {

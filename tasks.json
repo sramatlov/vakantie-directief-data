@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T12:22:57.445Z",
+  "updatedAt": "2026-07-18T13:26:27.702Z",
   "tasks": [
     {
       "id": "t1",
@@ -155,7 +155,7 @@
       "title": "Track app maken",
       "day": "2026-07-18",
       "cat": "admin",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq9lswb2dkp",

@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T14:26:07.445Z",
+  "updatedAt": "2026-07-18T14:26:40.946Z",
   "tasks": [
     {
       "id": "t1",
@@ -182,6 +182,13 @@
       "id": "tmrq5oohdxgpe",
       "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqgn06pge53",
+      "title": "CV onderzoeken",
+      "day": "2026-07-21",
       "cat": "huis",
       "done": false
     }

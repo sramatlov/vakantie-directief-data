@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T17:58:23.706Z",
+  "updatedAt": "2026-07-18T17:58:38.970Z",
   "tasks": [
     {
       "id": "t2",
@@ -210,6 +210,13 @@
       "id": "tmrqmdc2b4rfy",
       "title": "Kraan garage fixen",
       "day": null,
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqo7lh451pb",
+      "title": "Fatbike remmen fixen",
+      "day": "2026-07-19",
       "cat": "huis",
       "done": false
     }

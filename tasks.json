@@ -1,0 +1,27 @@
+{
+  "app": "vacation-directive",
+  "version": 3,
+  "tasks": [
+    { "id": "t1", "title": "Huis opruimen", "day": "2026-07-18", "cat": "huis", "done": false },
+    { "id": "t2", "title": "Bed verschonen", "day": "2026-07-18", "cat": "huis", "done": false },
+    { "id": "t3", "title": "Fatbike fixen", "day": "2026-07-18", "cat": "project", "done": false },
+    { "id": "t4", "title": "Return of the Jedi kijken", "day": "2026-07-18", "cat": "rust", "done": false },
+    { "id": "tmrq54ukg858u", "title": "Tegels tuinhuis voegen", "day": "2026-07-18", "cat": "huis", "done": false },
+    { "id": "tmrq5fia0wy3a", "title": "Was draaien", "day": "2026-07-18", "cat": "huis", "done": false },
+    { "id": "tmrq55dhl6y8n", "title": "Spullen Lindsey uit garage", "day": "2026-07-19", "cat": "huis", "done": false },
+    { "id": "tmrq5ntoignfq", "title": "Groenafval tuin", "day": "2026-07-19", "cat": "huis", "done": false },
+    { "id": "tmrq5rdnmoyyg", "title": "Garage opruimen", "day": "2026-07-19", "cat": "huis", "done": false },
+    { "id": "tmrq5ug4uy7jl", "title": "Vloei halen", "day": "2026-07-19", "cat": "huis", "done": false },
+    { "id": "t5", "title": "Huisarts bellen/berichten — pols en uitslag", "day": "2026-07-20", "cat": "admin", "done": false },
+    { "id": "t7", "title": "Hal schilderen en opruimen", "day": "2026-07-20", "cat": "project", "done": false },
+    { "id": "tmrq5cfnp4u39", "title": "Zakken halen bij Saver", "day": "2026-07-20", "cat": "huis", "done": false },
+    { "id": "tmrq5oohdxgpe", "title": "Groenafval buiten zetten in de avond", "day": "2026-07-20", "cat": "huis", "done": false },
+    { "id": "t9", "title": "Naar de kapper", "day": "2026-07-21", "cat": "admin", "done": false },
+    { "id": "tmrq5gnfzlu1a", "title": "Huisarts langsgaan — pols en uitslag", "day": "2026-07-21", "cat": "huis", "done": false },
+    { "id": "tmrq5kqsivlll", "title": "Tegels ophogen", "day": "2026-07-21", "cat": "huis", "done": false },
+    { "id": "t6", "title": "Tuinhuis ophalen en in elkaar zetten met Stefan", "day": "2026-07-22", "cat": "project", "done": false },
+    { "id": "tmrq59gwnu9x2", "title": "Tuinhuis inrichten", "day": "2026-07-24", "cat": "huis", "done": false },
+    { "id": "tmrq59ygcxkfr", "title": "Hout tuin verplaatsen", "day": "2026-07-24", "cat": "huis", "done": false },
+    { "id": "t8", "title": "Grote slaapkamer schoonmaken", "day": "2026-07-25", "cat": "huis", "done": false }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T13:32:03.529Z",
+  "updatedAt": "2026-07-18T13:32:30.847Z",
   "tasks": [
     {
       "id": "t1",
@@ -165,16 +165,16 @@
       "done": false
     },
     {
-      "id": "tmrq5oohdxgpe",
-      "title": "Groenafval buiten zetten in de avond",
-      "day": "2026-07-20",
+      "id": "tmrq9shn3x26t",
+      "title": "Vriezer en koelkast schoonmaken",
+      "day": "2026-07-23",
       "cat": "huis",
       "done": false
     },
     {
-      "id": "tmrq9shn3x26t",
-      "title": "Vriezer en koelkast schoonmaken",
-      "day": null,
+      "id": "tmrq5oohdxgpe",
+      "title": "Groenafval buiten zetten in de avond",
+      "day": "2026-07-20",
       "cat": "huis",
       "done": false
     }

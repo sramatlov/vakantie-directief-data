@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T14:25:47.903Z",
+  "updatedAt": "2026-07-18T14:26:07.445Z",
   "tasks": [
     {
       "id": "t1",
@@ -151,6 +151,13 @@
       "done": false
     },
     {
+      "id": "tmrqglv998seb",
+      "title": "CV fixen",
+      "day": "2026-07-25",
+      "cat": "huis",
+      "done": false
+    },
+    {
       "id": "tmrq9le4i5ekj",
       "title": "Track app maken",
       "day": "2026-07-18",
@@ -175,13 +182,6 @@
       "id": "tmrq5oohdxgpe",
       "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
-      "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "tmrqglv998seb",
-      "title": "CV fixen",
-      "day": null,
       "cat": "huis",
       "done": false
     }

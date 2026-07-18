@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T12:22:29.300Z",
+  "updatedAt": "2026-07-18T12:22:37.789Z",
   "tasks": [
     {
       "id": "t1",
@@ -11,17 +11,17 @@
       "done": true
     },
     {
-      "id": "t2",
-      "title": "Bed verschonen",
-      "day": "2026-07-18",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "t3",
       "title": "Fatbike fixen",
       "day": "2026-07-18",
       "cat": "project",
+      "done": false
+    },
+    {
+      "id": "t2",
+      "title": "Bed verschonen",
+      "day": "2026-07-18",
+      "cat": "huis",
       "done": false
     },
     {

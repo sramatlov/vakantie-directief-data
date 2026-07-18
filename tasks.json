@@ -1,18 +1,18 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T14:38:04.273Z",
+  "updatedAt": "2026-07-18T14:41:44.018Z",
   "tasks": [
     {
-      "id": "t1",
-      "title": "Huis opruimen",
+      "id": "t2",
+      "title": "Bed verschonen",
       "day": "2026-07-18",
       "cat": "huis",
       "done": true
     },
     {
-      "id": "t2",
-      "title": "Bed verschonen",
+      "id": "t1",
+      "title": "Huis opruimen",
       "day": "2026-07-18",
       "cat": "huis",
       "done": true

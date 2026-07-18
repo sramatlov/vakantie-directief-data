@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T17:07:07.484Z",
+  "updatedAt": "2026-07-18T17:58:23.706Z",
   "tasks": [
     {
       "id": "t2",
@@ -26,10 +26,10 @@
     },
     {
       "id": "t3",
-      "title": "Fatbike fixen",
+      "title": "Fatbike band fixen",
       "day": "2026-07-18",
       "cat": "project",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq5ug4uy7jl",

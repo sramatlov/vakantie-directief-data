@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T15:22:42.227Z",
+  "updatedAt": "2026-07-18T17:07:07.484Z",
   "tasks": [
     {
       "id": "t2",
@@ -203,6 +203,13 @@
       "id": "tmrqin1rlr0p6",
       "title": "Abonnementen bekijken / rocket money achtig iets?",
       "day": "2026-07-23",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqmdc2b4rfy",
+      "title": "Kraan garage fixen",
+      "day": null,
       "cat": "huis",
       "done": false
     }

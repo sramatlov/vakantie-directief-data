@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T17:58:38.970Z",
+  "updatedAt": "2026-07-18T17:59:06.526Z",
   "tasks": [
     {
       "id": "t2",
@@ -193,6 +193,13 @@
       "done": false
     },
     {
+      "id": "tmrqo7lh451pb",
+      "title": "Fatbike remmen fixen",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": false
+    },
+    {
       "id": "tmrqimj5pkjj1",
       "title": "Lindsey uit YouTube gooien",
       "day": "2026-07-23",
@@ -210,13 +217,6 @@
       "id": "tmrqmdc2b4rfy",
       "title": "Kraan garage fixen",
       "day": null,
-      "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "tmrqo7lh451pb",
-      "title": "Fatbike remmen fixen",
-      "day": "2026-07-19",
       "cat": "huis",
       "done": false
     }

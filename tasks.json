@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-18T17:59:29.029Z",
+  "updatedAt": "2026-07-18T17:59:34.717Z",
   "tasks": [
     {
       "id": "t2",
@@ -196,7 +196,7 @@
       "id": "tmrqo7lh451pb",
       "title": "Fatbike remmen fixen",
       "day": "2026-07-21",
-      "cat": "huis",
+      "cat": "project",
       "done": false
     },
     {

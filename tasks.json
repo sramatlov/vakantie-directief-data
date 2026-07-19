@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T06:50:11.406Z",
+  "updatedAt": "2026-07-19T09:06:13.443Z",
   "tasks": [
     {
       "id": "t2",
@@ -64,7 +64,7 @@
       "title": "Groenafval tuin",
       "day": "2026-07-19",
       "cat": "huis",
-      "done": false
+      "done": true
     },
     {
       "id": "t5",

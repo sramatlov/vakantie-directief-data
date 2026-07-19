@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T09:27:09.167Z",
+  "updatedAt": "2026-07-19T10:28:49.473Z",
   "tasks": [
     {
       "id": "t2",
@@ -36,7 +36,7 @@
       "title": "Fatbike stand fixen",
       "day": "2026-07-19",
       "cat": "project",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq55dhl6y8n",

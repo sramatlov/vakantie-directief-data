@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T06:50:02.985Z",
+  "updatedAt": "2026-07-19T06:50:11.406Z",
   "tasks": [
     {
       "id": "t2",
@@ -81,17 +81,17 @@
       "done": false
     },
     {
-      "id": "tmrq5cfnp4u39",
-      "title": "Zakken halen bij Saver",
+      "id": "tmrrfrmg2i8bh",
+      "title": "Tefon tape halen",
       "day": "2026-07-20",
       "cat": "admin",
       "done": false
     },
     {
-      "id": "t7",
-      "title": "Hal schilderen en opruimen",
+      "id": "tmrq5cfnp4u39",
+      "title": "Zakken halen bij Saver",
       "day": "2026-07-20",
-      "cat": "project",
+      "cat": "admin",
       "done": false
     },
     {
@@ -179,10 +179,10 @@
       "done": false
     },
     {
-      "id": "tmrq5oohdxgpe",
-      "title": "Groenafval buiten zetten in de avond",
+      "id": "t7",
+      "title": "Hal schilderen en opruimen",
       "day": "2026-07-20",
-      "cat": "huis",
+      "cat": "project",
       "done": false
     },
     {
@@ -228,10 +228,10 @@
       "done": false
     },
     {
-      "id": "tmrrfrmg2i8bh",
-      "title": "Tefon tape halen",
+      "id": "tmrq5oohdxgpe",
+      "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
-      "cat": "admin",
+      "cat": "huis",
       "done": false
     }
   ]

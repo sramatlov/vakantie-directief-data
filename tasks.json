@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T17:45:49.903Z",
+  "updatedAt": "2026-07-19T17:46:07.603Z",
   "tasks": [
     {
       "id": "t2",
@@ -53,15 +53,15 @@
       "done": false
     },
     {
-      "id": "tmrq54ukg858u",
-      "title": "Tegels tuinhuis voegen",
+      "id": "tmrq5rdnmoyyg",
+      "title": "Garage opruimen",
       "day": "2026-07-19",
       "cat": "huis",
       "done": true
     },
     {
-      "id": "tmrq5ntoignfq",
-      "title": "Groenafval tuin",
+      "id": "tmrq54ukg858u",
+      "title": "Tegels tuinhuis voegen",
       "day": "2026-07-19",
       "cat": "huis",
       "done": true
@@ -74,9 +74,9 @@
       "done": false
     },
     {
-      "id": "tmrq5rdnmoyyg",
-      "title": "Garage opruimen",
-      "day": "2026-07-20",
+      "id": "tmrq5ntoignfq",
+      "title": "Groenafval tuin",
+      "day": "2026-07-19",
       "cat": "huis",
       "done": true
     },

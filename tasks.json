@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T09:06:21.874Z",
+  "updatedAt": "2026-07-19T09:19:18.862Z",
   "tasks": [
     {
       "id": "t2",
@@ -221,17 +221,17 @@
       "done": false
     },
     {
-      "id": "tmrq5oohdxgpe",
-      "title": "Groenafval buiten zetten in de avond",
-      "day": "2026-07-20",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrq5ug4uy7jl",
       "title": "Vloei halen",
       "day": "2026-07-20",
       "cat": "admin",
+      "done": false
+    },
+    {
+      "id": "tmrq5oohdxgpe",
+      "title": "Groenafval buiten zetten in de avond",
+      "day": "2026-07-20",
+      "cat": "huis",
       "done": false
     }
   ]

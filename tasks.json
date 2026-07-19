@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T06:06:39.651Z",
+  "updatedAt": "2026-07-19T06:06:51.499Z",
   "tasks": [
     {
       "id": "t2",
@@ -22,7 +22,7 @@
       "title": "Return of the Jedi kijken",
       "day": "2026-07-18",
       "cat": "rust",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq5fia0wy3a",

@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T09:20:13.086Z",
+  "updatedAt": "2026-07-19T09:27:02.866Z",
   "tasks": [
     {
       "id": "t2",
@@ -58,6 +58,13 @@
       "day": "2026-07-19",
       "cat": "huis",
       "done": true
+    },
+    {
+      "id": "tmrqo8o3oarh5",
+      "title": "Fatbike stand fixen",
+      "day": "2026-07-19",
+      "cat": "project",
+      "done": false
     },
     {
       "id": "t5",
@@ -211,13 +218,6 @@
       "title": "Tegels ophogen",
       "day": null,
       "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "tmrqo8o3oarh5",
-      "title": "Fatbike stand fixen",
-      "day": "2026-07-21",
-      "cat": "project",
       "done": false
     },
     {

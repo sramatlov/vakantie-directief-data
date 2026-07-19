@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T15:35:27.388Z",
+  "updatedAt": "2026-07-19T15:35:51.478Z",
   "tasks": [
     {
       "id": "t2",
@@ -231,6 +231,13 @@
       "id": "tmrq5oohdxgpe",
       "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrryjtf9kszg",
+      "title": "Garage opruimen pt2",
+      "day": null,
       "cat": "huis",
       "done": false
     }

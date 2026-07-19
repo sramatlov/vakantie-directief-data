@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T12:37:47.277Z",
+  "updatedAt": "2026-07-19T13:15:10.545Z",
   "tasks": [
     {
       "id": "t2",
@@ -193,6 +193,13 @@
       "done": false
     },
     {
+      "id": "tmrqmdc2b4rfy",
+      "title": "Kraan garage fixen",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": false
+    },
+    {
       "id": "tmrqimj5pkjj1",
       "title": "Lindsey uit YouTube gooien",
       "day": "2026-07-23",
@@ -203,13 +210,6 @@
       "id": "tmrqin1rlr0p6",
       "title": "Abonnementen bekijken / rocket money achtig iets?",
       "day": "2026-07-23",
-      "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "tmrqmdc2b4rfy",
-      "title": "Kraan garage fixen",
-      "day": null,
       "cat": "huis",
       "done": false
     },

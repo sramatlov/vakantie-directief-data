@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T13:15:10.545Z",
+  "updatedAt": "2026-07-19T15:35:27.388Z",
   "tasks": [
     {
       "id": "t2",
@@ -43,14 +43,14 @@
       "title": "Spullen Lindsey uit garage",
       "day": "2026-07-19",
       "cat": "huis",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq5rdnmoyyg",
       "title": "Garage opruimen",
       "day": "2026-07-19",
       "cat": "huis",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq54ukg858u",

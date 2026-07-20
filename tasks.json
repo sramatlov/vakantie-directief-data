@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T06:20:01.014Z",
+  "updatedAt": "2026-07-20T06:20:40.516Z",
   "tasks": [
     {
       "id": "t2",
@@ -65,13 +65,6 @@
       "day": "2026-07-19",
       "cat": "huis",
       "done": true
-    },
-    {
-      "id": "tmrrfrmg2i8bh",
-      "title": "Tefon tape halen",
-      "day": "2026-07-20",
-      "cat": "admin",
-      "done": false
     },
     {
       "id": "tmrq5ntoignfq",
@@ -197,6 +190,13 @@
       "title": "Kraan garage fixen",
       "day": "2026-07-21",
       "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrrfrmg2i8bh",
+      "title": "Tefon tape halen",
+      "day": "2026-07-21",
+      "cat": "admin",
       "done": false
     },
     {

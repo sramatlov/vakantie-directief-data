@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T08:49:30.620Z",
+  "updatedAt": "2026-07-20T08:49:35.684Z",
   "tasks": [
     {
       "id": "t2",
@@ -228,8 +228,8 @@
       "done": false
     },
     {
-      "id": "tmrq5oohdxgpe",
-      "title": "Groenafval buiten zetten in de avond",
+      "id": "tmrsvgfjngzj4",
+      "title": "Vaatwas blokjes",
       "day": "2026-07-20",
       "cat": "huis",
       "done": false
@@ -242,8 +242,8 @@
       "done": false
     },
     {
-      "id": "tmrsvgfjngzj4",
-      "title": "Vaatwas blokjes",
+      "id": "tmrq5oohdxgpe",
+      "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
       "cat": "huis",
       "done": false

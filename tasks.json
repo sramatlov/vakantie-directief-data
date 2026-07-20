@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-19T17:46:07.603Z",
+  "updatedAt": "2026-07-20T06:14:11.604Z",
   "tasks": [
     {
       "id": "t2",
@@ -50,7 +50,7 @@
       "title": "Huisarts bellen/berichten — pols en uitslag",
       "day": "2026-07-20",
       "cat": "admin",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq5rdnmoyyg",
@@ -67,8 +67,8 @@
       "done": true
     },
     {
-      "id": "tmrq9nj55r2s8",
-      "title": "H&M pakket versturen DHL",
+      "id": "tmrrfrmg2i8bh",
+      "title": "Tefon tape halen",
       "day": "2026-07-20",
       "cat": "admin",
       "done": false
@@ -81,8 +81,8 @@
       "done": true
     },
     {
-      "id": "tmrrfrmg2i8bh",
-      "title": "Tefon tape halen",
+      "id": "tmrq9nj55r2s8",
+      "title": "H&M pakket versturen DHL",
       "day": "2026-07-20",
       "cat": "admin",
       "done": false

@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T06:21:50.317Z",
+  "updatedAt": "2026-07-20T06:22:22.576Z",
   "tasks": [
     {
       "id": "t2",
@@ -158,10 +158,10 @@
       "done": false
     },
     {
-      "id": "tmrq5ug4uy7jl",
-      "title": "Vloei halen",
+      "id": "tmrqo7lh451pb",
+      "title": "Fatbike remmen fixen",
       "day": "2026-07-20",
-      "cat": "admin",
+      "cat": "project",
       "done": false
     },
     {
@@ -214,6 +214,13 @@
       "done": false
     },
     {
+      "id": "tmrq5ug4uy7jl",
+      "title": "Vloei halen",
+      "day": "2026-07-20",
+      "cat": "admin",
+      "done": false
+    },
+    {
       "id": "t7",
       "title": "Hal schilderen en opruimen",
       "day": "2026-07-20",
@@ -225,13 +232,6 @@
       "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
       "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "tmrqo7lh451pb",
-      "title": "Fatbike remmen fixen",
-      "day": "2026-07-20",
-      "cat": "project",
       "done": false
     },
     {

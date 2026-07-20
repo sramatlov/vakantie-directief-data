@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:50:19.907Z",
+  "updatedAt": "2026-07-20T15:50:25.364Z",
   "tasks": [
     {
       "id": "t2",
@@ -85,13 +85,6 @@
       "title": "Tuinhuis ophalen en in elkaar zetten met Stefan",
       "day": "2026-07-22",
       "cat": "project",
-      "done": false
-    },
-    {
-      "id": "tmrq59ygcxkfr",
-      "title": "Hout tuin verplaatsen",
-      "day": "2026-07-24",
-      "cat": "huis",
       "done": false
     },
     {
@@ -216,6 +209,13 @@
     {
       "id": "tmrq59gwnu9x2",
       "title": "Tuinhuis inrichten",
+      "day": "2026-07-23",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrq59ygcxkfr",
+      "title": "Hout tuin verplaatsen",
       "day": "2026-07-23",
       "cat": "huis",
       "done": false

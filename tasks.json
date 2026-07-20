@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:51:01.642Z",
+  "updatedAt": "2026-07-20T15:51:13.549Z",
   "tasks": [
     {
       "id": "t2",
@@ -74,13 +74,6 @@
       "done": true
     },
     {
-      "id": "t9",
-      "title": "Naar de kapper",
-      "day": "2026-07-24",
-      "cat": "admin",
-      "done": false
-    },
-    {
       "id": "tmrq9lswb2dkp",
       "title": "Belastingen doen",
       "day": "2026-07-24",
@@ -99,6 +92,13 @@
       "title": "Abonnementen bekijken / rocket money achtig iets?",
       "day": "2026-07-24",
       "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "t9",
+      "title": "Naar de kapper",
+      "day": "2026-07-24",
+      "cat": "admin",
       "done": false
     },
     {

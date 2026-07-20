@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T06:22:52.149Z",
+  "updatedAt": "2026-07-20T06:23:04.562Z",
   "tasks": [
     {
       "id": "t2",
@@ -172,13 +172,6 @@
       "done": false
     },
     {
-      "id": "tmrqgn06pge53",
-      "title": "CV onderzoeken",
-      "day": "2026-07-21",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrq5cfnp4u39",
       "title": "Zakken halen bij Saver",
       "day": "2026-07-21",
@@ -190,6 +183,13 @@
       "title": "Tefon tape halen",
       "day": "2026-07-21",
       "cat": "admin",
+      "done": false
+    },
+    {
+      "id": "tmrqgn06pge53",
+      "title": "CV onderzoeken",
+      "day": "2026-07-21",
+      "cat": "huis",
       "done": false
     },
     {

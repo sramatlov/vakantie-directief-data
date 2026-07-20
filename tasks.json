@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:44:38.815Z",
+  "updatedAt": "2026-07-20T15:45:17.570Z",
   "tasks": [
     {
       "id": "t2",
@@ -228,13 +228,6 @@
       "done": false
     },
     {
-      "id": "tmrqo7lh451pb",
-      "title": "Fatbike remmen fixen",
-      "day": "2026-07-20",
-      "cat": "project",
-      "done": false
-    },
-    {
       "id": "tmrsvgfjngzj4",
       "title": "Vaatwas blokjes",
       "day": "2026-07-20",
@@ -260,6 +253,13 @@
       "title": "Vloer hal schoonmaken",
       "day": null,
       "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqo7lh451pb",
+      "title": "Fatbike remmen fixen",
+      "day": null,
+      "cat": "project",
       "done": false
     }
   ]

@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:50:42.390Z",
+  "updatedAt": "2026-07-20T15:50:50.908Z",
   "tasks": [
     {
       "id": "t2",
@@ -200,13 +200,6 @@
       "done": false
     },
     {
-      "id": "tmrq9shn3x26t",
-      "title": "Vriezer en koelkast schoonmaken",
-      "day": "2026-07-23",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrq59gwnu9x2",
       "title": "Tuinhuis inrichten",
       "day": "2026-07-23",
@@ -216,6 +209,13 @@
     {
       "id": "tmrq59ygcxkfr",
       "title": "Hout tuin verplaatsen",
+      "day": "2026-07-23",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrq9shn3x26t",
+      "title": "Vriezer en koelkast schoonmaken",
       "day": "2026-07-23",
       "cat": "huis",
       "done": false

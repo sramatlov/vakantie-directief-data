@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:50:33.704Z",
+  "updatedAt": "2026-07-20T15:50:38.226Z",
   "tasks": [
     {
       "id": "t2",
@@ -83,6 +83,13 @@
     {
       "id": "tmrq9lswb2dkp",
       "title": "Belastingen doen",
+      "day": "2026-07-24",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqimj5pkjj1",
+      "title": "Lindsey uit YouTube gooien",
       "day": "2026-07-24",
       "cat": "huis",
       "done": false
@@ -188,13 +195,6 @@
     {
       "id": "tmrq9shn3x26t",
       "title": "Vriezer en koelkast schoonmaken",
-      "day": "2026-07-23",
-      "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "tmrqimj5pkjj1",
-      "title": "Lindsey uit YouTube gooien",
       "day": "2026-07-23",
       "cat": "huis",
       "done": false

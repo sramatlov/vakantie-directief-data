@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:50:50.908Z",
+  "updatedAt": "2026-07-20T15:51:01.642Z",
   "tasks": [
     {
       "id": "t2",
@@ -214,13 +214,6 @@
       "done": false
     },
     {
-      "id": "tmrq9shn3x26t",
-      "title": "Vriezer en koelkast schoonmaken",
-      "day": "2026-07-23",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrsvgfjngzj4",
       "title": "Vaatwas blokjes",
       "day": "2026-07-20",
@@ -251,6 +244,13 @@
     {
       "id": "tmrteayzhbtso",
       "title": "Vloer hal schoonmaken",
+      "day": null,
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrq9shn3x26t",
+      "title": "Vriezer en koelkast schoonmaken",
       "day": null,
       "cat": "huis",
       "done": false

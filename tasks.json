@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:48:01.412Z",
+  "updatedAt": "2026-07-20T15:48:05.732Z",
   "tasks": [
     {
       "id": "t2",
@@ -165,6 +165,13 @@
       "done": false
     },
     {
+      "id": "tmrq9nj55r2s8",
+      "title": "H&M pakket versturen DHL",
+      "day": "2026-07-21",
+      "cat": "admin",
+      "done": false
+    },
+    {
       "id": "tmrq5cfnp4u39",
       "title": "Zakken halen bij Saver",
       "day": "2026-07-21",
@@ -174,13 +181,6 @@
     {
       "id": "tmrrfrmg2i8bh",
       "title": "Tefon tape halen",
-      "day": "2026-07-21",
-      "cat": "admin",
-      "done": false
-    },
-    {
-      "id": "tmrq9nj55r2s8",
-      "title": "H&M pakket versturen DHL",
       "day": "2026-07-21",
       "cat": "admin",
       "done": false

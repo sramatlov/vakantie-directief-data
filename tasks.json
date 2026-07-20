@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T08:49:35.684Z",
+  "updatedAt": "2026-07-20T08:49:44.034Z",
   "tasks": [
     {
       "id": "t2",
@@ -245,6 +245,13 @@
       "id": "tmrq5oohdxgpe",
       "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrszhe1s3z6w",
+      "title": "Zalf ophalen",
+      "day": null,
       "cat": "huis",
       "done": false
     }

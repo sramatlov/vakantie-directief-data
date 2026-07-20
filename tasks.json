@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T08:23:18.538Z",
+  "updatedAt": "2026-07-20T08:23:22.699Z",
   "tasks": [
     {
       "id": "t2",
@@ -130,15 +130,15 @@
       "done": true
     },
     {
-      "id": "tmrq9lswb2dkp",
-      "title": "Belastingen doen",
+      "id": "tmrq5gnfzlu1a",
+      "title": "Huisarts langsgaan — pols en uitslag",
       "day": "2026-07-23",
-      "cat": "huis",
+      "cat": "admin",
       "done": false
     },
     {
-      "id": "tmrq9shn3x26t",
-      "title": "Vriezer en koelkast schoonmaken",
+      "id": "tmrq9lswb2dkp",
+      "title": "Belastingen doen",
       "day": "2026-07-23",
       "cat": "huis",
       "done": false
@@ -193,6 +193,13 @@
       "done": false
     },
     {
+      "id": "tmrq9shn3x26t",
+      "title": "Vriezer en koelkast schoonmaken",
+      "day": "2026-07-23",
+      "cat": "huis",
+      "done": false
+    },
+    {
       "id": "tmrqimj5pkjj1",
       "title": "Lindsey uit YouTube gooien",
       "day": "2026-07-23",
@@ -204,13 +211,6 @@
       "title": "Abonnementen bekijken / rocket money achtig iets?",
       "day": "2026-07-23",
       "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "tmrq5gnfzlu1a",
-      "title": "Huisarts langsgaan — pols en uitslag",
-      "day": "2026-07-23",
-      "cat": "admin",
       "done": false
     },
     {

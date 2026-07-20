@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:48:05.732Z",
+  "updatedAt": "2026-07-20T15:48:25.746Z",
   "tasks": [
     {
       "id": "t2",
@@ -252,13 +252,6 @@
       "id": "tmrteayzhbtso",
       "title": "Vloer hal schoonmaken",
       "day": null,
-      "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "tmrqgn06pge53",
-      "title": "CV onderzoeken",
-      "day": "2026-07-21",
       "cat": "huis",
       "done": false
     }

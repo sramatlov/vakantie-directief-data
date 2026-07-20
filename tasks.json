@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:44:21.528Z",
+  "updatedAt": "2026-07-20T15:44:38.815Z",
   "tasks": [
     {
       "id": "t2",
@@ -252,6 +252,13 @@
       "id": "tmrq5oohdxgpe",
       "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrteayzhbtso",
+      "title": "Vloer hal schoonmaken",
+      "day": null,
       "cat": "huis",
       "done": false
     }

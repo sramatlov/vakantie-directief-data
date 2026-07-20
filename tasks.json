@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T06:14:11.604Z",
+  "updatedAt": "2026-07-20T06:20:01.014Z",
   "tasks": [
     {
       "id": "t2",
@@ -172,10 +172,10 @@
       "done": false
     },
     {
-      "id": "t7",
-      "title": "Hal schilderen en opruimen",
+      "id": "tmrq5ug4uy7jl",
+      "title": "Vloei halen",
       "day": "2026-07-20",
-      "cat": "project",
+      "cat": "admin",
       "done": false
     },
     {
@@ -221,10 +221,10 @@
       "done": false
     },
     {
-      "id": "tmrq5ug4uy7jl",
-      "title": "Vloei halen",
+      "id": "t7",
+      "title": "Hal schilderen en opruimen",
       "day": "2026-07-20",
-      "cat": "admin",
+      "cat": "project",
       "done": false
     },
     {

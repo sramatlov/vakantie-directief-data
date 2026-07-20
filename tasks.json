@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:51:34.965Z",
+  "updatedAt": "2026-07-20T15:51:40.022Z",
   "tasks": [
     {
       "id": "t2",
@@ -207,6 +207,13 @@
       "done": false
     },
     {
+      "id": "t8",
+      "title": "Grote slaapkamer schoonmaken",
+      "day": "2026-07-20",
+      "cat": "huis",
+      "done": true
+    },
+    {
       "id": "tmrsvgfjngzj4",
       "title": "Vaatwas blokjes",
       "day": "2026-07-20",
@@ -216,13 +223,6 @@
     {
       "id": "tmrq5oohdxgpe",
       "title": "Groenafval buiten zetten in de avond",
-      "day": "2026-07-20",
-      "cat": "huis",
-      "done": false
-    },
-    {
-      "id": "t8",
-      "title": "Grote slaapkamer schoonmaken",
       "day": "2026-07-20",
       "cat": "huis",
       "done": false

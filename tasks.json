@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:52:20.736Z",
+  "updatedAt": "2026-07-20T15:52:28.176Z",
   "tasks": [
     {
       "id": "t2",
@@ -179,9 +179,9 @@
       "done": false
     },
     {
-      "id": "tmrqmdc2b4rfy",
-      "title": "Kraan garage fixen",
-      "day": null,
+      "id": "tmrryjtf9kszg",
+      "title": "Garage opruimen pt2",
+      "day": "2026-07-25",
       "cat": "huis",
       "done": false
     },
@@ -235,13 +235,6 @@
       "done": false
     },
     {
-      "id": "tmrryjtf9kszg",
-      "title": "Garage opruimen pt2",
-      "day": "2026-07-25",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrteayzhbtso",
       "title": "Vloer hal schoonmaken",
       "day": "2026-07-25",
@@ -251,7 +244,14 @@
     {
       "id": "tmrq9shn3x26t",
       "title": "Vriezer en koelkast schoonmaken",
-      "day": null,
+      "day": "2026-07-25",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqmdc2b4rfy",
+      "title": "Kraan garage fixen",
+      "day": "2026-07-25",
       "cat": "huis",
       "done": false
     }

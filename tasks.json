@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T18:01:08.303Z",
+  "updatedAt": "2026-07-20T18:22:47.753Z",
   "tasks": [
     {
       "id": "t2",
@@ -225,7 +225,7 @@
       "title": "Groenafval buiten zetten in de avond",
       "day": "2026-07-20",
       "cat": "huis",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq5kqsivlll",

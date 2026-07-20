@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:51:13.549Z",
+  "updatedAt": "2026-07-20T15:51:34.965Z",
   "tasks": [
     {
       "id": "t2",
@@ -106,13 +106,6 @@
       "title": "Tuinhuis ophalen en in elkaar zetten met Stefan",
       "day": "2026-07-22",
       "cat": "project",
-      "done": false
-    },
-    {
-      "id": "t8",
-      "title": "Grote slaapkamer schoonmaken",
-      "day": "2026-07-25",
-      "cat": "huis",
       "done": false
     },
     {
@@ -223,6 +216,13 @@
     {
       "id": "tmrq5oohdxgpe",
       "title": "Groenafval buiten zetten in de avond",
+      "day": "2026-07-20",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "t8",
+      "title": "Grote slaapkamer schoonmaken",
       "day": "2026-07-20",
       "cat": "huis",
       "done": false

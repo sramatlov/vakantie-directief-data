@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T19:00:58.650Z",
+  "updatedAt": "2026-07-20T19:01:02.354Z",
   "tasks": [
     {
       "id": "t2",
@@ -144,6 +144,13 @@
       "done": true
     },
     {
+      "id": "tmrtlbgd30n5l",
+      "title": "UPS 10 tot 13",
+      "day": "2026-07-21",
+      "cat": "admin",
+      "done": false
+    },
+    {
       "id": "tmrqo7lh451pb",
       "title": "Fatbike remmen fixen",
       "day": "2026-07-21",
@@ -172,13 +179,6 @@
       "done": false
     },
     {
-      "id": "tmrrfrmg2i8bh",
-      "title": "Tefon tape halen",
-      "day": "2026-07-21",
-      "cat": "admin",
-      "done": false
-    },
-    {
       "id": "tmrryjtf9kszg",
       "title": "Garage opruimen pt2",
       "day": "2026-07-25",
@@ -186,8 +186,8 @@
       "done": false
     },
     {
-      "id": "tmrq5ug4uy7jl",
-      "title": "Vloei halen",
+      "id": "tmrrfrmg2i8bh",
+      "title": "Tefon tape halen",
       "day": "2026-07-21",
       "cat": "admin",
       "done": false
@@ -256,8 +256,8 @@
       "done": false
     },
     {
-      "id": "tmrtlbgd30n5l",
-      "title": "UPS 10 tot 13",
+      "id": "tmrq5ug4uy7jl",
+      "title": "Vloei halen",
       "day": "2026-07-21",
       "cat": "admin",
       "done": false

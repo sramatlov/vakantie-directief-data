@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T06:22:28.553Z",
+  "updatedAt": "2026-07-20T06:22:41.065Z",
   "tasks": [
     {
       "id": "t2",
@@ -172,13 +172,6 @@
       "done": false
     },
     {
-      "id": "tmrqmdc2b4rfy",
-      "title": "Kraan garage fixen",
-      "day": "2026-07-21",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrrfrmg2i8bh",
       "title": "Tefon tape halen",
       "day": "2026-07-21",
@@ -190,6 +183,13 @@
       "title": "Zakken halen bij Saver",
       "day": "2026-07-21",
       "cat": "admin",
+      "done": false
+    },
+    {
+      "id": "tmrqmdc2b4rfy",
+      "title": "Kraan garage fixen",
+      "day": "2026-07-21",
+      "cat": "huis",
       "done": false
     },
     {

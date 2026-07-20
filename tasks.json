@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T18:22:56.219Z",
+  "updatedAt": "2026-07-20T19:00:58.650Z",
   "tasks": [
     {
       "id": "t2",
@@ -253,6 +253,13 @@
       "title": "Kraan garage fixen",
       "day": "2026-07-25",
       "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrtlbgd30n5l",
+      "title": "UPS 10 tot 13",
+      "day": "2026-07-21",
+      "cat": "admin",
       "done": false
     }
   ]

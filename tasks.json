@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T15:50:25.364Z",
+  "updatedAt": "2026-07-20T15:50:33.704Z",
   "tasks": [
     {
       "id": "t2",
@@ -81,6 +81,13 @@
       "done": false
     },
     {
+      "id": "tmrq9lswb2dkp",
+      "title": "Belastingen doen",
+      "day": "2026-07-24",
+      "cat": "huis",
+      "done": false
+    },
+    {
       "id": "t6",
       "title": "Tuinhuis ophalen en in elkaar zetten met Stefan",
       "day": "2026-07-22",
@@ -120,13 +127,6 @@
       "title": "Huisarts langsgaan — pols en uitslag",
       "day": "2026-07-23",
       "cat": "admin",
-      "done": false
-    },
-    {
-      "id": "tmrq9lswb2dkp",
-      "title": "Belastingen doen",
-      "day": "2026-07-23",
-      "cat": "huis",
       "done": false
     },
     {

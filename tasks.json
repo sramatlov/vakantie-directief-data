@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T19:01:02.354Z",
+  "updatedAt": "2026-07-20T19:01:31.271Z",
   "tasks": [
     {
       "id": "t2",
@@ -151,13 +151,6 @@
       "done": false
     },
     {
-      "id": "tmrqo7lh451pb",
-      "title": "Fatbike remmen fixen",
-      "day": "2026-07-21",
-      "cat": "project",
-      "done": false
-    },
-    {
       "id": "tmrszhe1s3z6w",
       "title": "Zalf ophalen",
       "day": "2026-07-21",
@@ -232,6 +225,13 @@
       "title": "Tegels ophogen",
       "day": null,
       "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqo7lh451pb",
+      "title": "Fatbike remmen fixen",
+      "day": null,
+      "cat": "project",
       "done": false
     },
     {

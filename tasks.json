@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T06:48:03.385Z",
+  "updatedAt": "2026-07-20T06:57:00.854Z",
   "tasks": [
     {
       "id": "t2",
@@ -238,6 +238,13 @@
       "id": "tmrryjtf9kszg",
       "title": "Garage opruimen pt2",
       "day": null,
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrsvgfjngzj4",
+      "title": "Vaatwas blokjes",
+      "day": "2026-07-20",
       "cat": "huis",
       "done": false
     }

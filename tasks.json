@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-21T07:57:19.789Z",
+  "updatedAt": "2026-07-21T07:57:41.019Z",
   "tasks": [
     {
       "id": "t2",
@@ -242,13 +242,6 @@
       "done": false
     },
     {
-      "id": "tmrqmdc2b4rfy",
-      "title": "Kraan garage fixen",
-      "day": "2026-07-25",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrq5ug4uy7jl",
       "title": "Vloei halen",
       "day": "2026-07-21",
@@ -258,6 +251,13 @@
     {
       "id": "tmrryjtf9kszg",
       "title": "Garage opruimen pt2",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqmdc2b4rfy",
+      "title": "Kraan garage fixen",
       "day": "2026-07-21",
       "cat": "huis",
       "done": false

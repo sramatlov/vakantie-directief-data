@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-21T14:10:58.788Z",
+  "updatedAt": "2026-07-21T15:05:10.288Z",
   "tasks": [
     {
       "id": "t2",
@@ -267,14 +267,14 @@
       "title": "Vaatwasser",
       "day": "2026-07-21",
       "cat": "huis",
-      "done": false
+      "done": true
     },
     {
       "id": "tmruqdwuvkk6a",
       "title": "Boodschappen",
       "day": "2026-07-21",
       "cat": "huis",
-      "done": false
+      "done": true
     }
   ]
 }

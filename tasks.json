@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-21T07:57:03.781Z",
+  "updatedAt": "2026-07-21T07:57:19.789Z",
   "tasks": [
     {
       "id": "t2",
@@ -172,13 +172,6 @@
       "done": true
     },
     {
-      "id": "tmrryjtf9kszg",
-      "title": "Garage opruimen pt2",
-      "day": "2026-07-25",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrq9nj55r2s8",
       "title": "H&M pakket versturen DHL",
       "day": "2026-07-21",
@@ -261,6 +254,13 @@
       "day": "2026-07-21",
       "cat": "admin",
       "done": true
+    },
+    {
+      "id": "tmrryjtf9kszg",
+      "title": "Garage opruimen pt2",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": false
     }
   ]
 }

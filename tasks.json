@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-20T19:01:31.271Z",
+  "updatedAt": "2026-07-21T06:11:45.779Z",
   "tasks": [
     {
       "id": "t2",
@@ -144,6 +144,13 @@
       "done": true
     },
     {
+      "id": "tmrq5cfnp4u39",
+      "title": "Zakken halen bij Saver",
+      "day": "2026-07-21",
+      "cat": "admin",
+      "done": false
+    },
+    {
       "id": "tmrtlbgd30n5l",
       "title": "UPS 10 tot 13",
       "day": "2026-07-21",
@@ -160,13 +167,6 @@
     {
       "id": "tmrq9nj55r2s8",
       "title": "H&M pakket versturen DHL",
-      "day": "2026-07-21",
-      "cat": "admin",
-      "done": false
-    },
-    {
-      "id": "tmrq5cfnp4u39",
-      "title": "Zakken halen bij Saver",
       "day": "2026-07-21",
       "cat": "admin",
       "done": false

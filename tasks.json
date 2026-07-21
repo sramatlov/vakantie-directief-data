@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-21T06:18:25.018Z",
+  "updatedAt": "2026-07-21T07:28:21.541Z",
   "tasks": [
     {
       "id": "t2",
@@ -148,14 +148,14 @@
       "title": "Tefon tape halen",
       "day": "2026-07-21",
       "cat": "admin",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq5cfnp4u39",
       "title": "Zakken halen bij Saver",
       "day": "2026-07-21",
       "cat": "admin",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrtlbgd30n5l",

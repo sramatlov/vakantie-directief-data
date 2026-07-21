@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-21T07:28:23.929Z",
+  "updatedAt": "2026-07-21T07:47:30.447Z",
   "tasks": [
     {
       "id": "t2",
@@ -183,7 +183,7 @@
       "title": "H&M pakket versturen DHL",
       "day": "2026-07-21",
       "cat": "admin",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrq59gwnu9x2",

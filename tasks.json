@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-21T07:57:41.019Z",
+  "updatedAt": "2026-07-21T07:57:46.282Z",
   "tasks": [
     {
       "id": "t2",
@@ -158,17 +158,17 @@
       "done": true
     },
     {
-      "id": "tmrq5cfnp4u39",
-      "title": "Zakken halen bij Saver",
-      "day": "2026-07-21",
-      "cat": "admin",
-      "done": true
-    },
-    {
       "id": "tmrszhe1s3z6w",
       "title": "Zalf ophalen",
       "day": "2026-07-21",
       "cat": "huis",
+      "done": true
+    },
+    {
+      "id": "tmrq5cfnp4u39",
+      "title": "Zakken halen bij Saver",
+      "day": "2026-07-21",
+      "cat": "admin",
       "done": true
     },
     {

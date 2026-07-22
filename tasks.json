@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-22T18:10:15.444Z",
+  "updatedAt": "2026-07-22T18:10:26.371Z",
   "tasks": [
     {
       "id": "t2",
@@ -186,13 +186,6 @@
       "done": false
     },
     {
-      "id": "tmrq59ygcxkfr",
-      "title": "Hout tuin verplaatsen",
-      "day": "2026-07-23",
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrqo7lh451pb",
       "title": "Fatbike remmen fixen",
       "day": "2026-07-23",
@@ -230,6 +223,13 @@
     {
       "id": "tmrqmdc2b4rfy",
       "title": "Kraan garage fixen",
+      "day": null,
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrq59ygcxkfr",
+      "title": "Hout tuin verplaatsen",
       "day": null,
       "cat": "huis",
       "done": false

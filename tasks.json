@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-22T17:32:06.625Z",
+  "updatedAt": "2026-07-22T18:10:15.444Z",
   "tasks": [
     {
       "id": "t2",
@@ -180,7 +180,7 @@
     },
     {
       "id": "tmrq59gwnu9x2",
-      "title": "Tuinhuis inrichten",
+      "title": "Tuinhuis pt2",
       "day": "2026-07-23",
       "cat": "huis",
       "done": false

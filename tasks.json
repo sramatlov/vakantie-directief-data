@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-22T17:31:58.630Z",
+  "updatedAt": "2026-07-22T17:32:02.679Z",
   "tasks": [
     {
       "id": "t2",
@@ -106,7 +106,7 @@
       "title": "Tuinhuis ophalen en in elkaar zetten met Stefan",
       "day": "2026-07-22",
       "cat": "project",
-      "done": false
+      "done": true
     },
     {
       "id": "tmrqglv998seb",

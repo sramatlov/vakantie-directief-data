@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-23T14:52:28.985Z",
+  "updatedAt": "2026-07-23T14:52:42.724Z",
   "tasks": [
     {
       "id": "t2",
@@ -78,13 +78,6 @@
       "title": "Huisarts langsgaan — pols en uitslag",
       "day": "2026-07-24",
       "cat": "admin",
-      "done": false
-    },
-    {
-      "id": "tmrqimj5pkjj1",
-      "title": "Lindsey uit YouTube gooien",
-      "day": "2026-07-24",
-      "cat": "huis",
       "done": false
     },
     {
@@ -279,6 +272,13 @@
     {
       "id": "tmrq9lswb2dkp",
       "title": "Belastingen doen",
+      "day": "2026-07-26",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqimj5pkjj1",
+      "title": "Lindsey uit YouTube gooien",
       "day": "2026-07-26",
       "cat": "huis",
       "done": false

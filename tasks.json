@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-23T06:12:38.826Z",
+  "updatedAt": "2026-07-23T06:12:47.956Z",
   "tasks": [
     {
       "id": "t2",
@@ -74,6 +74,13 @@
       "done": true
     },
     {
+      "id": "tmrq5gnfzlu1a",
+      "title": "Huisarts langsgaan — pols en uitslag",
+      "day": "2026-07-24",
+      "cat": "admin",
+      "done": false
+    },
+    {
       "id": "tmrq9lswb2dkp",
       "title": "Belastingen doen",
       "day": "2026-07-24",
@@ -97,13 +104,6 @@
     {
       "id": "t9",
       "title": "Naar de kapper",
-      "day": "2026-07-24",
-      "cat": "admin",
-      "done": false
-    },
-    {
-      "id": "tmrq5gnfzlu1a",
-      "title": "Huisarts langsgaan — pols en uitslag",
       "day": "2026-07-24",
       "cat": "admin",
       "done": false

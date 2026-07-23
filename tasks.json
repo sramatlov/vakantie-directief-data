@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-23T22:52:33.907Z",
+  "updatedAt": "2026-07-23T22:53:03.834Z",
   "tasks": [
     {
       "id": "t2",
@@ -281,6 +281,13 @@
       "title": "Abonnementen bekijken / rocket money achtig iets?",
       "day": "2026-07-26",
       "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmry3xh3sb3kr",
+      "title": "Tuinhuis pt3",
+      "day": "2026-07-24",
+      "cat": "project",
       "done": false
     }
   ]

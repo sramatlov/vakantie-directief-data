@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-24T15:14:05.514Z",
+  "updatedAt": "2026-07-24T15:14:11.364Z",
   "tasks": [
     {
       "id": "t2",
@@ -200,13 +200,6 @@
       "done": false
     },
     {
-      "id": "tmrqo7lh451pb",
-      "title": "Fatbike remmen fixen",
-      "day": null,
-      "cat": "project",
-      "done": false
-    },
-    {
       "id": "tmrq59ygcxkfr",
       "title": "Hout tuin verplaatsen",
       "day": null,
@@ -281,6 +274,13 @@
       "title": "Abonnementen bekijken / rocket money achtig iets?",
       "day": "2026-07-26",
       "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrqo7lh451pb",
+      "title": "Fatbike remmen fixen",
+      "day": "2026-07-26",
+      "cat": "project",
       "done": false
     },
     {

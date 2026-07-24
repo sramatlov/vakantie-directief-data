@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-24T15:14:11.364Z",
+  "updatedAt": "2026-07-24T15:14:21.797Z",
   "tasks": [
     {
       "id": "t2",
@@ -200,13 +200,6 @@
       "done": false
     },
     {
-      "id": "tmrq59ygcxkfr",
-      "title": "Hout tuin verplaatsen",
-      "day": null,
-      "cat": "huis",
-      "done": false
-    },
-    {
       "id": "tmrweeoyiu0z9",
       "title": "Tuinhuis inrichten",
       "day": null,
@@ -223,6 +216,13 @@
     {
       "id": "tmrteayzhbtso",
       "title": "Vloer hal schoonmaken",
+      "day": "2026-07-25",
+      "cat": "huis",
+      "done": false
+    },
+    {
+      "id": "tmrq59ygcxkfr",
+      "title": "Hout tuin verplaatsen",
       "day": "2026-07-25",
       "cat": "huis",
       "done": false

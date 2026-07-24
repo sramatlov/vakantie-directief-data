@@ -1,7 +1,7 @@
 {
   "app": "vacation-directive",
   "version": 4,
-  "updatedAt": "2026-07-23T22:53:03.834Z",
+  "updatedAt": "2026-07-24T15:13:36.516Z",
   "tasks": [
     {
       "id": "t2",
@@ -78,14 +78,14 @@
       "title": "Huisarts langsgaan — pols en uitslag",
       "day": "2026-07-24",
       "cat": "admin",
-      "done": false
+      "done": true
     },
     {
       "id": "t9",
       "title": "Naar de kapper",
       "day": "2026-07-24",
       "cat": "admin",
-      "done": false
+      "done": true
     },
     {
       "id": "t6",
@@ -288,7 +288,7 @@
       "title": "Tuinhuis pt3",
       "day": "2026-07-24",
       "cat": "project",
-      "done": false
+      "done": true
     }
   ]
 }
